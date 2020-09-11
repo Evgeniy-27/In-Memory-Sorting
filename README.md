@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ra001xbk2awru8qg?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/in-memory-sorting)
+
+[GitHub Pages](https://evgeniy-27.github.io/DOM/)
+
 ### In-Memory Sorting
 
 #### Легенда
